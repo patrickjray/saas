@@ -1,4 +1,4 @@
-yii-saas
+saas
 ========
 
-Yii SAAS Application Framework
+SAAS
